@@ -1,6 +1,6 @@
 # ScaleX 隐私政策 / Privacy Policy
 
-[**English Version**](#privacy-policy) | [**中文版本**](#隐私政策)
+[**English Version**](#privacy-policy)
 
 ---
 
@@ -47,6 +47,8 @@
 ---
 
 ## Privacy Policy
+
+[**中文版本**](#隐私政策)
 
 **Effective Date:** January 1, 2025  
 
