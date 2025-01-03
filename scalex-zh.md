@@ -1,4 +1,12 @@
+---
+layout: default
+title: ScaleX 隐私政策 (中文)
+language: zh
+---
+
 # **ScaleX隐私政策**
+
+[**查看英文版本**](scalex-en.html)
 
 **隐私政策**
 

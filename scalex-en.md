@@ -1,4 +1,12 @@
+---
+layout: default
+title: ScaleX Privacy Policy (English)
+language: en
+---
+
 # **ScaleX Privacy Policy**
+
+[**View in Chinese**](scalex-zh.html)
 
 **Privacy Policy**
 
