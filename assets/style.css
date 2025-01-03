@@ -3,47 +3,45 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.8;
     margin: 0;
+    padding: 0;
     background-color: #f9f9f9;
     color: #333;
+    text-align: center; /* 全局内容居中对齐 */
 }
 
-/* 内容容器，居中显示 */
+/* 内容容器样式 */
 .content-container {
-    max-width: 800px;
-    margin: 0 auto;
+    max-width: 800px; /* 设置内容最大宽度 */
+    margin: 0 auto; /* 自动居中 */
     padding: 2em;
     background-color: #ffffff;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
+    text-align: left; /* 内容对齐方式 */
 }
 
 /* 标题样式 */
-article h1 {
-    font-size: 2em;
-    font-weight: bold;
+h1, h2, h3 {
     text-align: center;
     color: #007acc;
     margin-bottom: 1em;
-    border-bottom: 2px solid #007acc;
-    padding-bottom: 0.5em;
 }
 
 /* 正文样式 */
-article p {
+p {
     font-size: 1em;
-    margin-bottom: 1.2em;
+    margin-bottom: 1.5em;
     line-height: 1.6;
-    text-align: justify;
 }
 
 /* 链接样式 */
-article a {
+a {
     color: #007acc;
     text-decoration: none;
     font-weight: bold;
 }
 
-article a:hover {
+a:hover {
     text-decoration: underline;
 }
 
@@ -58,7 +56,6 @@ nav {
     margin-bottom: 1em;
 }
 
-/* 导航栏链接 */
 nav a {
     color: #007acc;
     text-decoration: none;
