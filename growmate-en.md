@@ -44,4 +44,4 @@ language: en
 9. **Contact Us**
    - Email: **dev@crosszan.com**
 
-Last Updated: March 4, 2026
+Last Updated: Nov 18, 2025
