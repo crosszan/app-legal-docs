@@ -1,4 +1,12 @@
+---
+layout: default
+title: GrowMate隐私政策 (中文)
+language: zh
+---
+
 # GrowMate 隐私协议
+
+[**查看英文版本**](growmate-en.html)
 
 1. **简介**
    GrowMate（以下简称“本应用”）由 **CrossZan** 运营，致力于保护家长及其家庭数据安全。本协议说明我们如何在不收集任何远程数据的前提下处理您在本地保存的信息，以及您可随时行使的权利。
